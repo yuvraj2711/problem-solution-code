@@ -1,3 +1,4 @@
 # problem-solution-code
-# 1.array2ndSecondSmallest.cpp
-  It's solved in single iteration & code is written c++.
+# array.cpp
+  It's solved in single iteration & code is written c++.<br>
+  Here you can get 2nd smallest element in an array.
