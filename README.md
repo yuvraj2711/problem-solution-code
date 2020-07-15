@@ -1,5 +1,5 @@
 # problem-solution-code
-## array.cpp
+## array.cpp [click here](https://github.com/yuvraj2711/problem-solution-code/blob/master/array.cpp)
   It's solved in single iteration & code is written c++.<br>
   Here you can get 2nd smallest element in an array.
 ## string.cpp
