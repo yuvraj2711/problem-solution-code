@@ -4,3 +4,5 @@
   Here you can get 2nd smallest element in an array.
 ## string.cpp
    Program to Delete or Remove SINGLE Spaces from a String.
+## typedef & struct
+In this file you will get code snippets illustrate how to use the typedef struct.
