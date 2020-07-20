@@ -8,5 +8,5 @@
 In this file you will get code snippets illustrate how to use the typedef struct.
 ## [withoutsemicolon.c](https://github.com/yuvraj2711/problem-solution-code/blob/master/withoutsemicolon.c)
 Objective: How to print any statement (like hello world) without semicolon in C.
-## [lexicographical.cpp] (https://github.com/yuvraj2711/problem-solution-code/blob/master/lexicographical.cpp)
+## [lexicographical.cpp](https://github.com/yuvraj2711/problem-solution-code/blob/master/lexicographical.cpp)
 C++ program to sort elements in Lexicographical Order(Dictionary order).
