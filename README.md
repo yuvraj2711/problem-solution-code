@@ -10,3 +10,5 @@ In this file you will get code snippets illustrate how to use the typedef struct
 Objective: How to print any statement (like hello world) without semicolon in C.
 ## [lexicographical.cpp](https://github.com/yuvraj2711/problem-solution-code/blob/master/lexicographical.cpp)
 C++ program to sort elements in Lexicographical Order(Dictionary order).
+## [stringNumber.cpp](https://github.com/yuvraj2711/problem-solution-code/blob/master/stringNumber.cpp)
+C++ program to find the number of vowels, consonants, digits and white spaces in a string.
