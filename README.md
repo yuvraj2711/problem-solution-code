@@ -14,3 +14,5 @@ C++ program to sort elements in Lexicographical Order(Dictionary order).
 C++ program to find the number of vowels, consonants, digits and white spaces in a string.
 ## [quotationmark.cpp](https://github.com/yuvraj2711/problem-solution-code/blob/master/quotationmark.cpp)
 C++ program to print (" ") symbols and also you can print \t \n etc. by (double back slash) checkout program for more information.
+## [removeChar](https://github.com/yuvraj2711/problem-solution-code/blob/master/removeChar.cpp)
+C++ program to remove all Characters in a String except Alphabets. 
