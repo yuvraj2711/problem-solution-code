@@ -16,3 +16,5 @@ C++ program to find the number of vowels, consonants, digits and white spaces in
 C++ program to print (" ") symbols and also you can print \t \n etc. by (double back slash) checkout program for more information.
 ## [removeChar](https://github.com/yuvraj2711/problem-solution-code/blob/master/removeChar.cpp)
 C++ program to remove all Characters in a String except Alphabets. 
+## [Addition.cpp](https://github.com/yuvraj2711/problem-solution-code/blob/master/Addition.cpp)
+C++ program to find sum of two integers without using ‘+’ operator. It is done by just using common Mathematics trick.
